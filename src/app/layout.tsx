@@ -32,7 +32,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
               <span style={{ maxWidth: "56ch" }}>
                 A short piece, not a platform. Every figure is simulated in your browser from a
                 fixed seed — nothing is hardcoded, nothing is stored.{" "}
-                <a href="https://github.com/Muhammad-Haris-3">Source</a>
+                <a href="https://github.com/Muhammad-Haris-3/Verdict">Source and method</a>
               </span>
               <span className="mono" style={{ fontSize: ".6rem", letterSpacing: ".18em", textTransform: "uppercase" }}>
                 Muhammad Haris
